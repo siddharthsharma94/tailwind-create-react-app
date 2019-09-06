@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To get started run the following command(s).
+```
+git clone https://github.com/siddharthsharma94/tailwind-create-react-app.git
+cd tailwind-create-react-app
+npm i
+npm start
+```
+
 [Tailwind CSS Documentation](https://tailwindcss.com/)
 
 ## Available Scripts
